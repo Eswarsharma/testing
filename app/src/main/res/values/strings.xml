@@ -1,0 +1,8 @@
+<resources>
+    <string name="appName">Tic Tac Toe</string>
+    <string name="allPlayerOne">Player 1</string>
+    <string name="allPlayerTwo">Player 2</string>
+    <string name="mainScreenWinnerDialogTitle">The winner is %1$s</string>
+    <string name="mainActivityOkButtonWinnerDialog">@android:string/ok</string>
+    <string name="mainActivityNoWinner">None</string>
+</resources>

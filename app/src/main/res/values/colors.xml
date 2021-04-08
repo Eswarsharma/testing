@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purpleTwoHundred">#FFBB86FC</color>
+    <color name="purpleFiveHundred">#FF6200EE</color>
+    <color name="purpleSevenHundred">#FF3700B3</color>
+    <color name="tealTwoHundred">#FF03DAC5</color>
+    <color name="tealSevenHundred">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cellColor">#009688</color>
+</resources>
